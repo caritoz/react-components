@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/zopaUK/react-componentsbuild/main.6e9e4912.js",
+    "main.js": "/zopaUK/react-componentsbuild/main.e5b2eaf5.js",
     "runtime-main.js": "/zopaUK/react-componentsbuild/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css",
     "build/2.43893739.js": "/zopaUK/react-componentsbuild/2.43893739.js",
     "build/2.43893739.js.LICENSE.txt": "/zopaUK/react-componentsbuild/2.43893739.js.LICENSE.txt",
     "index.html": "/zopaUK/react-componentsindex.html",
-    "precache-manifest.3fcf669f86d27f32ab4d8bc797d3478f.js": "/zopaUK/react-componentsprecache-manifest.3fcf669f86d27f32ab4d8bc797d3478f.js",
+    "precache-manifest.ab306975eeaa4182460b57a513f86ba0.js": "/zopaUK/react-componentsprecache-manifest.ab306975eeaa4182460b57a513f86ba0.js",
     "service-worker.js": "/zopaUK/react-componentsservice-worker.js",
     "static/css/2.cbe97408.chunk.css.map": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css.map",
     "static/media/alert-icon.svg": "/zopaUK/react-componentsstatic/media/alert-icon.7670e921.svg",
@@ -27,6 +27,6 @@
     "build/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css",
     "build/2.43893739.js",
-    "build/main.6e9e4912.js"
+    "build/main.e5b2eaf5.js"
   ]
 }
