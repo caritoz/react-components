@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/zopaUK/react-componentsbuild/main.c68f5996.js",
+    "main.js": "/zopaUK/react-componentsbuild/main.bddfa687.js",
     "runtime-main.js": "/zopaUK/react-componentsbuild/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css",
-    "build/2.36fe7274.js": "/zopaUK/react-componentsbuild/2.36fe7274.js",
-    "build/2.36fe7274.js.LICENSE.txt": "/zopaUK/react-componentsbuild/2.36fe7274.js.LICENSE.txt",
+    "build/2.5a6a959f.js": "/zopaUK/react-componentsbuild/2.5a6a959f.js",
+    "build/2.5a6a959f.js.LICENSE.txt": "/zopaUK/react-componentsbuild/2.5a6a959f.js.LICENSE.txt",
     "index.html": "/zopaUK/react-componentsindex.html",
-    "precache-manifest.fcf9d83f8757abc004f33fb86677d63b.js": "/zopaUK/react-componentsprecache-manifest.fcf9d83f8757abc004f33fb86677d63b.js",
+    "precache-manifest.9557b401cc2eea61dc1c995f41727f35.js": "/zopaUK/react-componentsprecache-manifest.9557b401cc2eea61dc1c995f41727f35.js",
     "service-worker.js": "/zopaUK/react-componentsservice-worker.js",
     "static/css/2.cbe97408.chunk.css.map": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css.map",
     "static/media/alert-icon.svg": "/zopaUK/react-componentsstatic/media/alert-icon.7670e921.svg",
     "static/media/arrows-alt-h.svg": "/zopaUK/react-componentsstatic/media/arrows-alt-h.d91b2198.svg",
-    "static/media/chevron-down.svg": "/zopaUK/react-componentsstatic/media/chevron-down.3ef8b683.svg",
     "static/media/facebook.svg": "/zopaUK/react-componentsstatic/media/facebook.99d044b8.svg",
     "static/media/green-check-mark.svg": "/zopaUK/react-componentsstatic/media/green-check-mark.15f3ad34.svg",
     "static/media/grey-check-mark.svg": "/zopaUK/react-componentsstatic/media/grey-check-mark.0e6af907.svg",
     "static/media/instagram.svg": "/zopaUK/react-componentsstatic/media/instagram.0ffc44eb.svg",
     "static/media/linkedin.svg": "/zopaUK/react-componentsstatic/media/linkedin.0025e185.svg",
     "static/media/nav-curve.svg": "/zopaUK/react-componentsstatic/media/nav-curve.4889e039.svg",
+    "static/media/sort-solid.svg": "/zopaUK/react-componentsstatic/media/sort-solid.8f3becaa.svg",
     "static/media/teal-check-mark.svg": "/zopaUK/react-componentsstatic/media/teal-check-mark.7ac5121c.svg",
     "static/media/triumph-icon.svg": "/zopaUK/react-componentsstatic/media/triumph-icon.6539411e.svg",
     "static/media/twitter.svg": "/zopaUK/react-componentsstatic/media/twitter.ef64ced8.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "build/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css",
-    "build/2.36fe7274.js",
-    "build/main.c68f5996.js"
+    "build/2.5a6a959f.js",
+    "build/main.bddfa687.js"
   ]
 }
