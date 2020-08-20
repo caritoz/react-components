@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/zopaUK/react-componentsbuild/main.8afee8b7.js",
+    "main.js": "/zopaUK/react-componentsbuild/main.75dca135.js",
     "runtime-main.js": "/zopaUK/react-componentsbuild/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css",
-    "build/2.9b7de16f.js": "/zopaUK/react-componentsbuild/2.9b7de16f.js",
-    "build/2.9b7de16f.js.LICENSE.txt": "/zopaUK/react-componentsbuild/2.9b7de16f.js.LICENSE.txt",
+    "build/2.cf9c525d.js": "/zopaUK/react-componentsbuild/2.cf9c525d.js",
+    "build/2.cf9c525d.js.LICENSE.txt": "/zopaUK/react-componentsbuild/2.cf9c525d.js.LICENSE.txt",
     "index.html": "/zopaUK/react-componentsindex.html",
-    "precache-manifest.1f169d37476decc662dec539e1db2cee.js": "/zopaUK/react-componentsprecache-manifest.1f169d37476decc662dec539e1db2cee.js",
+    "precache-manifest.6fe1fc86bfe60d9d2e3aba91c72659ca.js": "/zopaUK/react-componentsprecache-manifest.6fe1fc86bfe60d9d2e3aba91c72659ca.js",
     "service-worker.js": "/zopaUK/react-componentsservice-worker.js",
     "static/css/2.cbe97408.chunk.css.map": "/zopaUK/react-componentsstatic/css/2.cbe97408.chunk.css.map",
     "static/media/alert-icon.svg": "/zopaUK/react-componentsstatic/media/alert-icon.7670e921.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "build/bundle.5339aa43.js",
     "static/css/2.cbe97408.chunk.css",
-    "build/2.9b7de16f.js",
-    "build/main.8afee8b7.js"
+    "build/2.cf9c525d.js",
+    "build/main.75dca135.js"
   ]
 }
